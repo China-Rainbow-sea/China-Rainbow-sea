@@ -17,17 +17,8 @@
 
 
 
-
-
-![CSDN统计](https://stats.justsong.cn/api/csdn?id=weixin_61635597&amp;theme=default&amp;lang=zh-CN)
-
-![掘金统计](https://stats.justsong.cn/api/juejin?id=752533564566951&amp;theme=default&amp;lang=zh-CN)
-
-
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=China-Rainbow-sea&amp;show_icons=true&amp;theme=default)
-
-
-![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=China-Rainbow-sea&amp;layout=compact&amp;theme=default)
-
+| ![CSDN统计](https://stats.justsong.cn/api/csdn?id=weixin_61635597&amp;theme=default&amp;lang=zh-CN) | ![掘金统计](https://stats.justsong.cn/api/juejin?id=752533564566951&amp;theme=default&amp;lang=zh-CN) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=China-Rainbow-sea&amp;show_icons=true&amp;theme=default) | ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=China-Rainbow-sea&amp;layout=compact&amp;theme=default) |
 
 </div>
