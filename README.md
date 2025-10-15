@@ -1,16 +1,32 @@
-## Hi there 👋
+## Rainbow Sea 🌈🌈🌈
 
-<!--
-**China-Rainbow-sea/China-Rainbow-sea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="title" align=center>
 
-Here are some ideas to get you started:
+[![CSDN](https://img.shields.io/badge/CSDN博客地址-RainbowSea15-red)](https://blog.csdn.net/weixin_61635597?spm=1010.2135.3001.5343)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![掘金](https://img.shields.io/badge/掘金博客地址-RainbowSea-blue)](https://juejin.cn/creator/home)
+
+[![Gitee](https://img.shields.io/badge/Gitee地址-RainbowSea-yello)](https://gitee.com/Rainbow--Sea)
+
+
+![](https://img.shields.io/badge/主修-Java-orange) 
+
+
+![](https://img.shields.io/badge/性格-开朗-red) 
+![](https://img.shields.io/badge/爱好-二次元-red)
+
+</div>
+
+
+
+![CSDN统计](https://stats.justsong.cn/api/csdn?id=weixin_61635597&amp;theme=default&amp;lang=zh-CN)
+
+![掘金统计](https://stats.justsong.cn/api/juejin?id=752533564566951&amp;theme=default&amp;lang=zh-CN)
+
+
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=China-Rainbow-sea&amp;show_icons=true&amp;theme=default)
+
+
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=China-Rainbow-sea&amp;layout=compact&amp;theme=default)
+
+
