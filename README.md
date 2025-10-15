@@ -15,7 +15,7 @@
 ![](https://img.shields.io/badge/性格-开朗-red) 
 ![](https://img.shields.io/badge/爱好-二次元-red)
 
-</div>
+
 
 
 
@@ -30,3 +30,4 @@
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=China-Rainbow-sea&amp;layout=compact&amp;theme=default)
 
 
+</div>
